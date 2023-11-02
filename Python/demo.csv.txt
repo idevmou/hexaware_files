@@ -1,0 +1,7 @@
+Batch,Name,Marks_SQL,Marks_ETL
+
+1,Pritam,8,7
+
+2,Mouli,7,9
+
+3,Salma,10,10

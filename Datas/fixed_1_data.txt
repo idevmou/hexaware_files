@@ -1,0 +1,51 @@
+ Entry  Per. Post Date  GL Account   Description               Srce. Cflow  Ref.  Post             Debit              Credit  Alloc.
+------------------------------------------------------------------------------------------------------------------------------------
+
+278393  03  02/15/2013  2740511065   YFZBCVE VDB VBFW           S1   Yes IIWM      Yes         54,791.07                        Yes 
+257506  03  02/08/2013  5246458028   ENZ FEB                    S1   Yes           Yes          8,174.16                        Yes 
+285579  03  02/20/2013  1101495865   JDXPBSLJS XPZXQXX          S1   No            Yes                              4,164.21    No  
+235071  03  01/31/2013  1951245370   JKPT EMIDPRF ZNSD          S1   Yes ZHTX      No                               9,749.87    Yes 
+236285  03  02/01/2013  5234171039   BTT LO GTHRYST             S1   Yes YUON      Yes            278.22                        Yes 
+236286  03  02/01/2013  3797707593   TOQ KP NMXOVNK             S1   Yes DPIR      No             746.58                        Yes 
+236287  03  02/01/2013  1221115759   NVC PI CRFXGKK             S1   Yes CRKZ      Yes            955.69                        Yes 
+257502  03  02/08/2013  1807823798   ZOL KIH                    S1   Yes           Yes         35,984.63                        Yes 
+257508  03  02/08/2013  3323367369   OVV SEM                    S1   No            Yes        481,687.96                        No  
+257510  03  02/08/2013  1152412955   CKY IXY                    S1   Yes           Yes          7,713.57                        No  
+294642  03  02/25/2013  1230040208   LTAY MVBA YW JL            S1   Yes NVBI      Yes         38,026.48                        Yes 
+294645  03  02/25/2013  1402328618   BLCS BXJB BE DH            S1   No  LHHW      Yes                             47,428.08    Yes 
+257515  03  02/08/2013  4211202436   SBN WKB                    S1   Yes           Yes                            496,013.34    Yes 
+271822  03  02/13/2013  1584315561   ELXHSRFP FF XCGQCEHA       S1   No  IINS      Yes                              9,466.64    Yes 
+275691  03  02/14/2013  4941954497   DUSY Y QNNEJ LLOWA         S1   No  FIRG      Yes                            416,156.17    Yes 
+284320  03  02/19/2013  3472905128                              S1   Yes HCLB      Yes                             42,791.65    No  
+294643  03  02/25/2013  1262976685   PYSG LYFK HY XO            S1   Yes IWSD      Yes                             76,421.20    Yes 
+294644  03  02/25/2013  2640814319   ZDIQ XRCH GX RB            S1   No  JFWK      Yes          6,237.29                        Yes 
+285632  03  02/20/2013  1581361179   BOLYMJI TBYS               S1   Yes BHVT      No             899.48                        Yes 
+285633  03  02/20/2013  3951045564   IDRUXZS BAFP               S1   No  GIVO      Yes            925.30                        No  
+260918  03  02/08/2013  3842713563   UTW LUQ                    S1   No            Yes        393,027.42                        Yes 
+271792  03  02/13/2013  1484169517   MUXEMKOZ AA ZAXNJLBC       S1   No  IMRR      Yes      5,641,168.36                        Yes 
+271821  03  02/13/2013  2622877741   OQJAJRAW QQ BGEDIGAE       S1   Yes NPNU      Yes                             77,052.71    Yes 
+272812  03  02/13/2013  4509634521   RRGHU UYSMYSN              S1   Yes           Yes                             43,342.38    No  
+284319  03  02/19/2013  2135248964                              S1   Yes BBXF      Yes                             21,173.51    Yes 
+278395  03  02/15/2013  2715082665   ONS UTI KMLG               S1   Yes YXKJ      Yes         99,491.89                        Yes 
+222753  03  01/25/2013  2323564734   SMPRD R PZLH NMN STK       S1   No  BXSD      Yes                              5,056.25    Yes 
+260920  03  02/08/2013  1353499415   CKH JDL                    S1   Yes           Yes        171,474.46                        Yes 
+271820  03  02/13/2013  2462142428   XTEIZIBS WT YXSBUGKC       S1   Yes ZYNK      Yes                            852,136.85    Yes 
+272814  03  02/13/2013  5994035953   GYYUD HHWXDLZ              S1   Yes           No                              39,872.49    Yes 
+272888  03  02/13/2013  2375451459   LLJRN TYPYWTZ              S1   Yes           Yes         30,791.23                        No  
+275690  03  02/14/2013  5105559902   JXNG Q LDXMV MONSV         S1   Yes USUA      Yes        960,042.66                        Yes 
+284318  03  02/19/2013  3613416187                              S1   Yes DMQI      No                             339,591.80    No  
+278396  03  02/15/2013  2695734235   ORO ZSY NACR               S1   No  WBOM      Yes         32,082.42                        Yes 
+285631  03  02/20/2013  5546031693   JEYZFSE ZJDQ               S1   Yes OYHW      Yes            868.98                        Yes 
+222754  03  01/25/2013  2858877071   GWOVQ F JFBE ADE IZA       S1   Yes YYWR      Yes                             44,180.29    Yes 
+261056  03  02/08/2013  4351292388   TNP EBS                    S1   Yes           No             861.62                        Yes 
+273094  03  02/13/2013  1586839806   ZXTVN BFYDRCK              S1   Yes           Yes                              9,831.36    Yes 
+278397  03  02/15/2013  2869360275   OBQ ZZN EQMT               S1   Yes GPTP      Yes         44,046.69                        Yes 
+285635  03  02/20/2013  2226270617   ZEXWEHT ANWI               S1   Yes JMDJ      Yes            363.06                        No  
+162804  03  01/02/2013  4442690358   IFPWKPV                    S1   Yes NDPSNSKY  Yes                              4,148.35    Yes 
+191693  03  01/14/2013  5656682837   XONLEVU TCODENK            S1   Yes           Yes                              6,534.21    Yes 
+260922  03  02/08/2013  4009855443   EPK PBT                    S1   Yes           Yes                             85,439.79    Yes 
+260927  03  02/08/2013  4172567014   JWE STV                    S1   Yes           No          38,559.38                        Yes 
+271815  03  02/13/2013  4485151485   BCWMTYBJ MD KOFAXUJE       S1   Yes SFEN      Yes                             91,758.79    Yes 
+273648  03  02/14/2013  4556545417   LXAR PLLQJ IMTSTJV         S1   Yes LTRH      Yes             39.44                        Yes 
+278399  03  02/15/2013  2533184602   CAW OHP FYJY               S1   Yes EWDB      Yes        790,684.70                        Yes 
+260928  03  02/08/2013  4911937659   CIY ETV                    S1   Yes           Yes         94,469.67                        Yes 
