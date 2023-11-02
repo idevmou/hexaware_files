@@ -1,0 +1,7 @@
+Col1,Col2
+A,A
+A,A
+A,B
+B,A
+B,B
+B,B
